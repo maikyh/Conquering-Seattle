@@ -7,5 +7,5 @@ Seattle Real Estate Web Page
 Login
 ![image](https://user-images.githubusercontent.com/98727536/174511381-5a0645a5-8afa-4dca-bd65-2a3c8b42cdf7.png)
 ![image](https://user-images.githubusercontent.com/98727536/174511702-645e9c4e-5c88-4273-9c1e-885ba58a0159.png)
-![image](https://user-images.githubusercontent.com/98727536/174511568-ba6a6be1-77d0-4879-b510-f76be9ab8663.png)
-![image](https://user-images.githubusercontent.com/98727536/174511477-32205716-165e-4f66-a0c2-5f8ac005bd6b.png)
+![image](https://user-images.githubusercontent.com/98727536/174511748-efe0671e-9dbf-416d-9886-5e0b7d0e5c88.png)
+![image](https://user-images.githubusercontent.com/98727536/174511805-120ca173-9c63-4176-9fc7-511400824e9f.png)
